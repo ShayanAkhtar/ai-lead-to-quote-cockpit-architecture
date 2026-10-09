@@ -59,10 +59,6 @@ Open quotes are synced into PostgreSQL. Follow-up emails for stale opportunities
 - **Safe by default:** every step has a dry-run mode, leads older than 90 days get no auto-draft, a safety stop halts the run on mass CRM drift, and a kill switch disables live CRM reads.
 - **Idempotent and resumable:** read-merge-write metadata updates, concurrent-run guards, and the ability to resume from any pipeline step.
 
-## My role
-
-<!-- Describe your contribution, e.g. "Designed and built the approval workflow, the CRM integration and the cockpit UI." -->
-
 ## About the diagram
 
 The diagram was generated with [Archify](https://github.com/tt-a1i/archify) from a typed JSON specification traced against the real codebase. `index.html` is a single self-contained file with no external dependencies.
