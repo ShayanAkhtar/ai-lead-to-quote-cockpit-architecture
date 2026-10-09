@@ -2,7 +2,7 @@
 
 **LLM-powered CRM lead qualification with human-in-the-loop approval.**
 
-[![Architecture diagram](assets/thumbnail.png)](https://ShayanAkhtar.github.io/ai-lead-to-quote-cockpit-architecture/)
+[![Architecture diagram](assets/thumbnail-light.png)](https://ShayanAkhtar.github.io/ai-lead-to-quote-cockpit-architecture/)
 
 **[View the interactive architecture diagram](https://ShayanAkhtar.github.io/ai-lead-to-quote-cockpit-architecture/)**: zoom and pan, switch between light and dark themes, trace paths, and export to PNG or SVG.
 
